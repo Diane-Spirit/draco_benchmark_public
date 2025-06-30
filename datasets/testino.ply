@@ -1,0 +1,11 @@
+ply
+format binary_little_endian 1.0
+element vertex 21
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+B`å:€&½·Qºikh3Ä1<z¥,½èÙ¬<jlişe÷;R' ¼¡g³<nrq1¬»¨5Í<¡g³¼ost	¼*:’¼4€7ºjli©Ğ»Ÿ«-;4€7:mqpœ3¢;	Š½·Qº|ƒ…¿œ<z¥,=+•¼t„“)<Ãõ(½“©<u€Šd¼ Añ<¡g³¼q8øÂ»[±¿;4€7ºt€ cn¼‡Y¼' 	»t~b¡Ö;vàœ¼Ãdª<q|~;pN»ßà½¦›Ä»v|zâé¼8øÂ»¦›D»qww6<=<¾Á½V}®<tzx¿œ¼ÎˆR¼NÑ¼ajoãÇ˜<,e½¼t“<`in_)Ë:sW¼_˜<clq™»–:ÎˆR<Ÿ«­»fot³{ò:ğ½+¼_fl

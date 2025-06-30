@@ -1,0 +1,1 @@
+docker build --rm -t draco:latest -f Dockerfile.draco .
